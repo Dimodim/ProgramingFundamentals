@@ -2,3 +2,8 @@
 	name:"Pesho"
 	color:"red"
 }
+
+{
+	name:"Pesho"
+	color:"black"
+}
