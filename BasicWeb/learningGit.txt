@@ -4,6 +4,6 @@
 }
 
 {
-	name:"Pesho"
+	name:"Gosho"
 	color:"black"
 }
