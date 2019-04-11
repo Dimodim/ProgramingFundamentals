@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\netcoreapp2.1\Dictionary.deps.json
+C:\Users\Dimitar\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.json
+C:\Users\Dimitar\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Dimitar\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\netcoreapp2.1\Dictionary.pdb
+C:\Users\Dimitar\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Dimitar\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.1\Dictionary.pdb
